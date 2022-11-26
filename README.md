@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @sindupath
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+hi i am sindupath..
+i am from tenkasi in india..
+i enter this codeing feild just for fun but now i love it..
 
-<!---
-sindupath/sindupath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+i am code for fun and entertainment.
